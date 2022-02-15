@@ -4,4 +4,4 @@
 
 |  #  | Project                                                                                                                   | Live Demo                                                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/dinomoon/50projects50days/tree/master/01.%20Expanding%20Cards)                       | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%201%20Expanding%20Cards/index.html)        |
+| 01  | [Expanding Cards]                       | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%201%20Expanding%20Cards/index.html)        |
