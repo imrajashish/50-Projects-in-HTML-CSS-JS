@@ -5,4 +5,4 @@
 |  #  | Project                                                                                                                   | Live Demo                                                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 01  | Expanding Cards                       | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%201%20Expanding%20Cards/index.html) 
-| 02  | Progress Steps                       | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%202%Progress%Steps/index.html)        |
+| 02  | Progress Steps                       | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%202%20Progress%20Steps/index.html)        |
