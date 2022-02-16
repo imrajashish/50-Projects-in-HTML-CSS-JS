@@ -11,7 +11,7 @@ function checkBoxes(){
         if(boxTop <triggerBottom){
             box.classList.add('show')
         } else{
-            box.classList.remove('show')
+            box.classList.remove ('show')
 
         }
     })
