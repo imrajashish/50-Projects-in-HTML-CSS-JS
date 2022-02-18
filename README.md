@@ -11,4 +11,5 @@
  04  |Hidden Search                    | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%205%20%20Hidden%20Search/index.html)
   07  |Split Landing                  | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%20%207%20Split%20Landing%20Page/index.html)
   08  |Form Animation                | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%208%20Form%20Wave%20Animation/index.html)
+  09  |Sound Board               | [Live Demo](http://127.0.0.1:5500/project%209%20Sound%20Board/index.html)
 
