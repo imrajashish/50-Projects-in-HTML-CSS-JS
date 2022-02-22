@@ -13,5 +13,6 @@
   08  |Form Animation                | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%208%20Form%20Wave%20Animation/index.html)
   09  |Sound Board               | [Live Demo](http://127.0.0.1:5500/project%209%20Sound%20Board/index.html)
   10  |Sound Board               | [Live Demo](http://127.0.0.1:5500/project%209%20Sound%20Board/index.html)
-  11  |Event KeyCodes             | [Live Demo](http://127.0.0.1:5500/Project%2011%20Event%20KeyCodes/index.html)
+  12  |Event KeyCodes             | [Live Demo](http://127.0.0.1:5500/Project%2011%20Event%20KeyCodes/index.html)
+  13  |Event KeyCodes             | [Live Demo](http://127.0.0.1:5500/Project%2012%20FAQ%20Collapse/index.html)
 
