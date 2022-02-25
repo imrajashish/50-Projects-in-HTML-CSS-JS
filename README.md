@@ -17,4 +17,7 @@
   13  |FAQ Collapse             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2012%20FAQ%20Collapse/index.html)
 14  |Animation Navigation             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2014%20Animated%20Navigation/index.html)
 15  |Incrementing Counter             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2015%20-%20Incrementing%20Counter/index.html)
+16  |Drinking Water             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2016%20Drink%20Water/index.html)
+15  |Incrementing Counter             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2015%20-%20Incrementing%20Counter/index.html)
+
 
