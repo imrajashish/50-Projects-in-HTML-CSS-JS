@@ -18,6 +18,6 @@
 14  |Animation Navigation             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2014%20Animated%20Navigation/index.html)
 15  |Incrementing Counter             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2015%20-%20Incrementing%20Counter/index.html)
 16  |Drinking Water             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2016%20Drink%20Water/index.html)
-15  |Incrementing Counter             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2015%20-%20Incrementing%20Counter/index.html)
+17  |Movie App             | [Live Demo](https://imrajashish.github.io/50-Projects-in-HTML-CSS-JS/Project%2015%20-%20Incrementing%20Counter/index.html)
 
 
