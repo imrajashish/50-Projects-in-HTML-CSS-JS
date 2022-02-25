@@ -13,14 +13,14 @@ toggle.addEventListener('click', (e) => {
 
     if (html.classList.contains('dark')) {
         html.classList.remove('dark')
-        e.target.innerHTML = 'Dark Mode'
+        e.target.innerHTML = 'Dark mode'
     } else {
         html.classList.add('dark')
-        e.target.innerHTML = "Light Mode"
+        e.target.innerHTML = "Light mode"
     }
 })
 
-const scale = (num,in_min,in_max,in_out) => {
+const scale = (num,in_min,in_max,out_min,out_max) => {
     return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
 }
 
@@ -43,3 +43,6 @@ function setTime() {
     dateEl = `${days[day]}, ${months[month]} <span class = "circle"> ${date} </span>`
     
 }
+setTime()
+
+setInterval(setTime,100)
